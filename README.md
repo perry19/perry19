@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hello world I'm Perry👋
+
+#### I'm a software engineer and writer, currently in my final year with main focus on Backend and cloud technologies. I'm a fast learner that quickly adapts to fast-paced environment. Some technologies I enjoy working with include Java (Spring Boot), Python, Flutter and Firebase.
 
 <!--
 **perry19/perry19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on my finl year project
+- 🌱 I’m currently learning React.js
+- 👯 I’m looking to collaborate with other developers and content creator world-wide
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- 💬 Ask me about anything , Would love to answer them.✌
+- 📫 How to reach me: via email perryzapa75@gmail.com or via any social platform
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I love to play tennis, learn new languages, do skating and dance kizomba.
+
+Community
+
+- Google Developer Group Buea
+- Facebook Developer Circles Buea

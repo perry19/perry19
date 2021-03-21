@@ -3,19 +3,23 @@
 #### I'm a software engineer and writer, currently in my final year with main focus on Backend and cloud technologies. I'm a fast learner that quickly adapts to fast-paced environment. Some technologies I enjoy working with include Java (Spring Boot), Python, Flutter and Firebase.
 
 
-- 🔭 I’m currently working on my final year project
-- 🌱 I’m currently learning React.js
-- 👯 I’m looking to collaborate with other developers and content creator world-wide
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- 💬 Ask me about anything , Would love to answer them.                                                             
-- 📫 How to reach me: via email perryzapa75@gmail.com or via any social platform
-- ✨ Native English and French speaker, currently learning Spanish.
-- ⚡ Fun fact: I love to play tennis, learn new languages, do skating and dance kizomba.
+- 🔭  I’m currently working on my final year project
+- 🌱  I’m currently learning React.js
+- 👯  I’m looking to collaborate with other developers and content creator world-wide
+- 🥅  2021 Goals: Contribute more to Open Source projects
+- 💬  Ask me about anything , Would love to answer them.                                                             
+- 📫  How to reach me: via email perryzapa75@gmail.com or via any social platform
+- ✨  Native English and French speaker, currently learning Spanish.
+- ⚡   Fun fact: I love to play tennis, learn new languages, do skating and dance kizomba.
+
+---
 
 ### Community
 
 - Google Developer Group Buea
 - Facebook Developer Circles Buea
+
+---
 
 ### Languages and Tools
 
@@ -67,3 +71,20 @@
 [<code>
 <img alt="macos" width="26px" src="https://img.icons8.com/officel/160/000000/mac-logo.png">
 </code>](https://developer.apple.com/macos/)
+
+---
+
+### Medium
+
+<!-- MEDIUM:START -->
+- [Tips to Learn Programming More Effectively](https://betterprogramming.pub/tips-to-learn-programming-more-effectively-8be86122acd8)
+- [How to Choose the Right Career Path in Software Development](https://betterprogramming.pub/how-to-choose-the-right-career-path-in-software-development-8fae4c9cc7dd)
+<!-- [Beautify Your GitHub Profile README](https://dev.to/thesabesan/beautify-your-github-profile-readme-10cf)-->
+<!-- MEDIUM:END -->
+
+<!-- <a href="https://github.com/perry19">
+<img align="center" alt="Perry's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=perry19&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a> -->
+
+<!-- <a href="https://github.com/sabesansathananthan">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sabesansathananthan&layout=compact&theme=radical" />
+</a>  -->

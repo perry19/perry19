@@ -18,5 +18,3 @@
 - Facebook Developer Circles Buea
 
 #### Languages and Tools
-
-![Intellij Idea Logo](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.2NwabVoeofneMEadhs34WAAAAA%26pid%3DApi%26h%3D160&f=1), ![Intellij Idea Logo](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.BchgbmYhVdkgT5cDt6hYYAAAAA%26pid%3DApi&f=1)

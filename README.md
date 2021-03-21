@@ -2,8 +2,6 @@
 
 #### I'm a software engineer and writer, currently in my final year with main focus on Backend and cloud technologies. I'm a fast learner that quickly adapts to fast-paced environment. Some technologies I enjoy working with include Java (Spring Boot), Python, Flutter and Firebase.
 
-<!--
-**perry19/perry19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on my finl year project
 - 🌱 I’m currently learning React.js

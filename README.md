@@ -1,12 +1,12 @@
 ### Hello world I'm Perry👋
 
-#### I'm a software engineer and writer, currently in my final year with main focus on Backend and cloud technologies. I'm a fast learner that quickly adapts to fast-paced environment. Some technologies I enjoy working with include Java (Spring Boot), Python, Flutter and Firebase.
+#### I'm a software engineer and writer, currently working as a freelancer and contractor with main focus on Backend and cloud technologies. I'm a fast learner who quickly adapts to fast-paced environment. Some technologies I enjoy working with include Java (Spring Boot), Python, Flutter, AWS and Firebase.
 
 
-- 🔭  I’m currently working on my final year project
-- 🌱  I’m currently learning React.js
+- 🔭  I’m currently doing technical support and freelancing
+- 🌱  I’m currently learning AWS technologies and React.js
 - 👯  I’m looking to collaborate with other developers and content creator world-wide
-- 🥅  2021 Goals: Contribute more to Open Source projects
+- 🥅  2022 Goals: Contribute more to Open Source projects
 - 💬  Ask me about anything , Would love to answer them.                                                             
 - 📫  How to reach me: via email perryzapa75@gmail.com or via any social platform
 - ✨  Native English and French speaker, currently learning Spanish.

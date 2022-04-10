@@ -4,7 +4,7 @@
 
 
 - 🔭  I’m currently doing technical support and freelancing
-- 🌱  I’m currently learning AWS technologies and React.js
+- 🌱  I’m currently learning Golang and some key AWS technologies
 - 👯  I’m looking to collaborate with other developers and content creator world-wide
 - 🥅  2022 Goals: Contribute more to Open Source projects
 - 💬  Ask me about anything , Would love to answer them.                                                             

@@ -3,8 +3,8 @@
 #### I'm a software engineer and writer, currently working as a freelancer and contractor with main focus on Backend and cloud technologies. I'm a fast learner who quickly adapts to fast-paced environment. Some technologies I enjoy working with include Java, Spring Boot, Golang, Python, Flutter, AWS and Firebase.
 
 
-- 🔭  I’m currently doing technical support and freelancing
-- 🌱  I’m currently learning Golang and some key AWS technologies
+- 🔭  I’m currently working as a support Engineer and freelance Developer
+- 🌱  I’m currently learning Golang, DevOps and some key AWS technologies
 - 👯  I’m looking to collaborate with other developers and content creator world-wide
 - 🥅  2022 Goals: Contribute more to Open Source projects
 - 💬  Ask me about anything , Would love to answer them.                                                             

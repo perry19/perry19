@@ -1,6 +1,6 @@
 ### Hello world I'm Perry👋
 
-#### I'm a software engineer and writer, currently working as Support Engineer and Freelance developer with main focus on Backend and cloud technologies. I'm a fast learner who quickly adapts to fast-paced environment. Some technologies I enjoy working with include Java, Spring Boot, Golang, Python, Flutter, AWS and Firebase.
+#### I'm a software engineer and writer, currently working as Support Engineer and Freelance developer with main focus on Backend and cloud technologies. I'm a fast learner who quickly adapts to fast-paced environment. Some technologies I enjoy working with include Java, Spring Boot, Golang, React JS, and AWS.
 
 
 - 🔭  I’m currently working as a support Engineer and freelance Developer

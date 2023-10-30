@@ -1,12 +1,12 @@
 ### Hello world I'm Perry👋
 
-#### I'm a software engineer and writer, currently working as Support Engineer and Freelance developer with main focus on Backend and cloud technologies. I'm a fast learner who quickly adapts to fast-paced environment. Some technologies I enjoy working with include Java, Spring Boot, Golang, React JS, and AWS.
+#### I'm a software engineer and writer, currently working as a software developer/project manager. I'm a fast learner who quickly adapts to fast-paced environment. Some technologies I enjoy working with include Java, Spring Boot, Golang, React JS, and AWS.
 
 
-- 🔭  I’m currently working as a support Engineer and freelance Developer
-- 🌱  I’m currently learning Golang, DevOps and some key AWS technologies
+- 🔭  I’m currently working as a software developer/project manager
+- 🌱  I’m currently learning DevOps and some key AWS technologies
 - 👯  I’m looking to collaborate with other developers and content creator world-wide
-- 🥅  2022 Goals: Contribute more to Open Source projects
+- 🥅  2023 Goals: Contribute more to Open Source projects
 - 💬  Ask me about anything , Would love to answer them.                                                             
 - 📫  How to reach me: via email perryzapa75@gmail.com or via any social platform
 - ✨  Native English and French speaker, currently learning Spanish.

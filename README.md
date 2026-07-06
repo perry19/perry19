@@ -1,60 +1,109 @@
-### Hello world I'm Perry👋
+# Hello, I'm Perry 👋
 
-#### I'm a software engineer and writer, currently working as a software developer/project manager. I'm a fast learner who quickly adapts to fast-paced environment. Some technologies I enjoy working with include Java, Spring Boot, Golang, React JS, and AWS.
+I'm a Software Engineer and founder passionate about building reliable cloud platforms, scalable distributed systems, and production-grade software.
 
+I enjoy solving real engineering problems at the intersection of cloud infrastructure, DevOps, backend engineering, and solution architecture. Through my company, TwidX, I build software that helps organizations move from ideas to systems that people actually use.
 
-- 🔭  I’m currently working as a software developer/project manager
-- 🌱  I’m currently learning DevOps and some key AWS technologies
-- 👯  I’m looking to collaborate with other developers and content creator world-wide
-- 🥅  2023 Goals: Contribute more to Open Source projects
-- 💬  Ask me about anything , Would love to answer them.                                                             
-- 📫  How to reach me: via email perryzapa75@gmail.com or via any social platform
-- ✨  Native English and French speaker, currently learning Spanish.
-- ⚡   Fun fact: I love to play tennis, learn new languages, do skating and dance kizomba.
+I'm currently transitioning deeper into Cloud Engineering and Platform Engineering while pursuing advanced expertise in Azure, DevOps, Infrastructure as Code, Kubernetes, and distributed systems.
 
 ---
 
-### Community
+## 🚀 Current Focus
 
-- Google Developer Group Buea
-- Facebook Developer Circles Buea
+- ☁️ Cloud Architecture (Azure & AWS)
+- ⚙️ DevOps & Platform Engineering
+- 🏗️ Infrastructure as Code (Terraform)
+- ☸️ Kubernetes & Container Platforms
+- 🔄 CI/CD Automation
+- 📈 Monitoring & Observability
+- 🤖 Applied AI Systems
+- 📚 Preparing for graduate studies in Computer Science (Applied AI)
 
 ---
 
-### Languages and Tools
+## 🌱 Currently Learning
+
+- Microsoft Azure Architecture
+- Kubernetes
+- Terraform
+- GitHub Actions
+- Docker
+- Distributed Systems Design
+- Site Reliability Engineering (SRE)
+- AWS Cloud Services
+
+---
+
+## 🤝 Open to Collaborate On
+
+- Cloud-native applications
+- Infrastructure as Code
+- Platform Engineering
+- Open Source
+- DevOps tooling
+- AI infrastructure
+- Developer Experience (DevEx)
+
+---
+
+## 💬 Ask Me About
+
+- Software Engineering
+- Cloud Computing
+- System Design
+- Backend Development
+- Product Development
+- Azure
+- DevOps
+- Building Software Startups
+
+---
+
+## 🌍 Languages
+
+🇬🇧 English
+
+🇫🇷 French
+
+🇪🇸 Learning Spanish
+
+---
+
+## ⚡ Outside Tech
+
+You'll probably find me playing tennis, learning a new language, skating, dancing Kizomba, or reading about distributed systems.
+
+---
+
+# Languages & Tools
 
 [<code><img alt="Go" width="26px" src="https://img.icons8.com/color/240/000000/golang.png"></code>](https://go.dev)
 [<code><img alt="AWS" width="26px" src="https://img.icons8.com/color/240/000000/amazon-web-services.png"></code>](https://aws.amazon.com/)
-[<code><img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png"></code>](https://docs.oracle.com/en/java/)
-[<code><img alt="spring" width="26px" src="https://img.icons8.com/color/240/000000/spring-logo.png"></code>](https://spring.io/projects/spring-framework)
-[<code><img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" /></code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<code><img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" /></code>](https://reactjs.org/)
-[<code><img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png"></code>](https://www.python.org/)
-[<code><img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>](https://dev.mysql.com/)
-[<code><img alt="postgresql" width="26px" src="https://img.icons8.com/color/240/000000/postgreesql.png"></code>](https://www.postgresql.org)
-[<code><img alt="Firebase" width="26px" src="https://img.icons8.com/color/48/000000/firebase.png"></code>](https://firebase.google.com)
-[<code><img alt="Flutter" width="26px" src="https://img.icons8.com/color/48/000000/flutter.png"></code>](https://flutter.dev)
+[<code><img alt="Azure" width="26px" src="https://img.icons8.com/color/48/000000/azure-1.png"></code>](https://azure.microsoft.com)
+[<code><img alt="Docker" width="26px" src="https://img.icons8.com/color/48/docker.png"></code>](https://www.docker.com/)
+[<code><img alt="Kubernetes" width="26px" src="https://img.icons8.com/color/48/kubernetes.png"></code>](https://kubernetes.io/)
+[<code><img alt="Terraform" width="26px" src="https://cdn.simpleicons.org/terraform/7B42BC"></code>](https://www.terraform.io/)
+[<code><img alt="GitHub Actions" width="26px" src="https://cdn.simpleicons.org/githubactions/2088FF"></code>](https://github.com/features/actions)
+[<code><img alt="Linux" width="26px" src="https://img.icons8.com/color/96/linux.png"></code>](https://kernel.org)
+
+[<code><img alt="Java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png"></code>](https://docs.oracle.com/en/java/)
+[<code><img alt="Spring" width="26px" src="https://img.icons8.com/color/240/000000/spring-logo.png"></code>](https://spring.io/)
+[<code><img alt="Go" width="26px" src="https://img.icons8.com/color/240/000000/golang.png"></code>](https://go.dev)
+[<code><img alt="Python" width="26px" src="https://img.icons8.com/color/240/000000/python.png"></code>](https://python.org)
+[<code><img alt="JavaScript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png"></code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<code><img alt="TypeScript" width="26px" src="https://cdn.simpleicons.org/typescript/3178C6"></code>](https://www.typescriptlang.org/)
+[<code><img alt="React" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png"></code>](https://react.dev)
+
+[<code><img alt="PostgreSQL" width="26px" src="https://img.icons8.com/color/240/000000/postgreesql.png"></code>](https://postgresql.org)
+[<code><img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>](https://mysql.com)
+
 [<code><img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png"></code>](https://git-scm.com/)
-[<code><img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" /></code>](https://code.visualstudio.com/)
-[<code><img alt="pycharm" width="26px" src="https://img.icons8.com/color/240/000000/pycharm.png" /></code>](https://www.jetbrains.com/pycharm/)
-[<code><img alt="intellij idea" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" /></code>](https://www.jetbrains.com/idea/)
-[<code><img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png"></code>](https://www.microsoft.com/en-us/windows)
-[<code><img alt="ubuntu" width="26px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png"></code>](https://ubuntu.com/)
-[<code><img alt="macos" width="26px" src="https://img.icons8.com/officel/160/000000/mac-logo.png"></code>](https://developer.apple.com/macos/)
 
 ---
 
-### Medium
+# Medium
 
 <!-- MEDIUM:START -->
 - [Tips to Learn Programming More Effectively](https://betterprogramming.pub/tips-to-learn-programming-more-effectively-8be86122acd8)
 - [How to Choose the Right Career Path in Software Development](https://betterprogramming.pub/how-to-choose-the-right-career-path-in-software-development-8fae4c9cc7dd)
-<!-- [Beautify Your GitHub Profile README](https://dev.to/thesabesan/beautify-your-github-profile-readme-10cf)-->
 <!-- MEDIUM:END -->
-
-<!-- <a href="https://github.com/perry19">
-<img align="center" alt="Perry's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=perry19&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a> -->
-
-<!-- <a href="https://github.com/sabesansathananthan">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sabesansathananthan&layout=compact&theme=radical" />
-</a>  -->
